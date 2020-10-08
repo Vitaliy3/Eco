@@ -1,5 +1,5 @@
 import { ktuDatatable, calcKtuButtton,ktu} from './ktu.js';
-
+//test
 const mainPage = {
     id: "tabView",
     view: "tabview",
